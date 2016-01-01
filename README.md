@@ -1,3 +1,3 @@
 # wasabi-docs
 
-pruebs
+prueba 
